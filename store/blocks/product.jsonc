@@ -40,9 +40,6 @@
     }
   },
   "flex-layout.row#qty-sku": {
-    "props": {
-      "marginBottom": 5
-    },
     "children": [
       "sku-selector",
       "product-quantity"
