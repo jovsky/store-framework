@@ -21,12 +21,18 @@
   "flex-layout.col#footer-left-desktop": {
     "children": [
       "accepted-payment-methods"
-    ]
+    ],
+    "props": {
+      "horizontalAlign": "center"
+    }
   },
   "flex-layout.col#footer-right-desktop": {
     "children": [
       "social-networks"
-    ]
+    ],
+    "props": {
+      "horizontalAlign": "center"
+    }
   },
   "accepted-payment-methods": {
     "props": {
