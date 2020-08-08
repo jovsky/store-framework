@@ -27,7 +27,7 @@
   },
   "flex-layout.col#img": {
     "children": [
-      "img#menu",
+      "image#menu",
       "rich-text#header"
     ],
     "props":{
