@@ -8,7 +8,7 @@
   "image": {
     "props": {
       "src": "https://i.pinimg.com/originals/15/3e/a8/153ea8dd2b7ac4ed76716f3a9a3bb0b7.png",
-      "minWidth": "10%"
+      "minWidth": "100%"
     }
   },
   "search-result-layout.customQuery": {
